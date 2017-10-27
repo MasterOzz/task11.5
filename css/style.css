@@ -1,0 +1,10 @@
+.carousel {
+	background-image: center;
+	border-image: 5px red;
+}
+ul{}
+
+li{
+	list-style: none;
+	float: initial;
+}
